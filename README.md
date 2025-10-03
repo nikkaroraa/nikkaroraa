@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-currently eng @katana (https://app.katana.network)
+building the liquidity flywheel for DeFi at [@katana](https://katana.network/)
 
 ## 📫 You can reach me at:
 
