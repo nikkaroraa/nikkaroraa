@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-Smart Contract / Product Engineer currently working on Opyn Markets (https://markets.opyn.co)
+currently eng @katana (https://app.katana.network)
 
 ## 📫 You can reach me at:
 
