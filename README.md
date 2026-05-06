@@ -1,6 +1,8 @@
 # Hi there! 👋
 
-building the liquidity flywheel for DeFi at [@katana](https://katana.network/)
+software engineer. smart contracts, DeFi, and the occasional AI agent.
+
+previously: engineering at [@katana](https://katana.network/), smart contracts at [@opyn](https://opyn.co/).
 
 ## 📫 You can reach me at:
 
