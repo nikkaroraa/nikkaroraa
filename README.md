@@ -2,7 +2,7 @@
 
 software engineer. smart contracts, DeFi, and the occasional AI agent.
 
-previously: engineering at [@katana](https://katana.network/), smart contracts at [@opyn](https://opyn.co/).
+currently: software engineer [@ether.fi](https://ether.fi) previously: engineering at [@katana](https://katana.network/), smart contracts at [@opyn](https://opyn.co/).
 
 ## 📫 You can reach me at:
 
